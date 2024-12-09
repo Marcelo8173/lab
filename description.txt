@@ -1,0 +1,3 @@
+Esse repositorio tem como objetivo ser um arcabouço para estudos de devOps e cloud
+
+- kubernets, docker, AWS entre outros
